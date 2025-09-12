@@ -692,7 +692,7 @@ abstract contract ERC20Burnable is Context, ERC20 {
 
 // File: WTICS.sol
 
-contract WrappedTICS is ERC20, ERC20Burnable, ReentrancyGuard {
+contract WTICS is ERC20, ERC20Burnable, ReentrancyGuard {
     event Deposit(address indexed dst, uint256 wad);
     event Withdrawal(address indexed src, uint256 wad);
 

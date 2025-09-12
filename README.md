@@ -1,8 +1,8 @@
 # wrap-qube-contracts
-Wrapped Contracts | WTICS - veQST - on the Qubetics Network
+Wrapped Contracts | WTICS - xQST - on the Qubetics Network
 
 #### WTICS address: 
-0x2f0c4dF09Fac1aa410C94c4d97aF0186538057e3
+0x9009A3171c92A733943118958312013989660943
 
 #### veQST address: 
 0x
